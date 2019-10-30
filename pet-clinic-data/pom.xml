@@ -60,7 +60,7 @@
     </build>
 
 
-  <scm>
-    <tag>sfg-pet-clinic-0.0.3</tag>
-  </scm>
+<!--  <scm>-->
+<!--    <tag>sfg-pet-clinic-0.0.4</tag>-->
+<!--  </scm>-->
 </project>
